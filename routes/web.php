@@ -26,3 +26,5 @@ Route::get('blog/{blog}', function ($blog) {
 Route::get('blog2/{blog}/{nombre}', function ($blog, $nombre) {
     return view('blog2',["blog"=>$blog, 'nombre'=>$nombre]);
 })-> where(array('nombre'=>'[a-zA-Z]+', 'blog'=>'[a-zA-Z]+'));
+
+Route::get('saludo', 'Controller@saludo');

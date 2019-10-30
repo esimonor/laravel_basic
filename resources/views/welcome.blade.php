@@ -87,8 +87,8 @@
                 <div class="links">
                     <a href="{{route('contacto')}}">Contacto</a>
                     <a href="blog/1">blog</a>
-                    <a href="blog2/2/Jeff">blog con id</a>
-                    <a href="https://nova.laravel.com">Nova</a>
+                    <a href="blog2/2/jeff">blog con id</a>
+                    <a href="saludo">Saludo</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
