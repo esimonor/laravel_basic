@@ -32,3 +32,4 @@ Realiza las siguientes validaciones (todos los campos son obligatorios salvo tel
 Si se introducen los datos correctamente deberá mostralos en una vista, en caso contrario deberá indicar que dato(s) no son correctos. 
 
 # laravel_basic
+# laravel_basic
