@@ -31,3 +31,4 @@ Realiza las siguientes validaciones (todos los campos son obligatorios salvo tel
     - teléfono: 6xxxxxxxx y 7xxxxxxxx
 Si se introducen los datos correctamente deberá mostralos en una vista, en caso contrario deberá indicar que dato(s) no son correctos. 
 
+# laravel_basic
